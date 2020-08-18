@@ -44,6 +44,22 @@ int main()
 	return 0;
 }
 
+/*compare max sum using kadane
+and 
+total sum - max sum of inverted array using kadane
+
+inverted done to get the sum of max continuos negative elements sum
+*/
+
+
+
+
+
+
+
+
+
+
 // ll maxs=-INF, maxe=0, p=0, pref=0, s=0, suff=0;
 
 // 	REP(i,n)
